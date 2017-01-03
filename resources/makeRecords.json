@@ -1,0 +1,30 @@
+{
+	"resource": [
+		{
+			"name": "todo",
+			"label": "Todo",
+			"plural": "Todos",
+			"alias": null,
+			"field": [
+				{
+					"name": "id",
+					"label": "Id",
+					"type": "id"
+				},
+				{
+					"name": "name",
+					"label": "Name",
+					"type": "string",
+					"size": 80,
+					"allow_null": false
+				},
+				{
+					"name": "complete",
+					"label": "Complete",
+					"type": "boolean",
+					"default": false
+				}
+			]
+		}
+	]
+}
