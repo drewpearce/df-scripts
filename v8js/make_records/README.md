@@ -1,7 +1,7 @@
 # Script For Creating Dummy records
 ## Related Files
-* js/makeRecords.js
-* resources/makeRecords.json
+* ./makeRecords.js
+* ./makeRecords.json
 
 ## Description
 This script can be used to create large batches of records in a DreamFactory connected database. This is useful for testing large API calls and creating data sets for demos.
